@@ -1,3 +1,5 @@
+# Example of directory comprehension
+
 users = [
     (0, "Bob" , "pass123"),
     (1, "Rolf" , "1234"),
